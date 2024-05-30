@@ -26,31 +26,29 @@ Scheduled to graduate in 2024, I am eager to apply my knowledge and make meaning
 - Technologies: HTML, CSS, JavaScript, Geolocation API
 - [Repository](https://github.com/Mateennazir/Mapty-by-Mateen)
 
+### ( Travel agency Website) TrekDeKashmir
+● Created a visually appealing and user-friendly frontend for a travel agency using HTML, CSS, JavaScript Utilized
+responsive design principles to ensure the website is accessible and functional across various devices, including
+desktops, tablets, and mobile phones.
+● Integrated user-friendly animations to not only improve aesthetics but also contribute to a smooth and enjoyable
+user journey.
+● Successfully managed and executed the entire frontend development process, meeting project deadlines effectively
+- Technologies: HTML, CSS, JavaScript,
+- [Repository](https://mateennazir.github.io/-Trekdekashmir/)
+
 ## Skills and Technologies
 
 - HTML
 - CSS
-- JavaScript (JS)
+- JavaScript (JS) ES6
 - ReactJs
 - Python
-- C++
-
-## Goals
-
-Welcome to my coding journey! 👋 I'm currently on a mission to expand my skills in both backend web development. Here are the areas I'm diving into:
-
-## MERN Stack
-
-In addition to backend development and machine learning, I'm also diving into the MERN stack:
-
-- **MongoDB**: As part of my backend goals, I'm integrating MongoDB into the MERN stack for a seamless full-stack development experience.
-- **Express.js**: My expertise in Express.js is not only for standalone backend applications but also for building the server side of MERN stack applications.
-- **React.js**: I'm honing my skills in React.js for building interactive and dynamic user interfaces.
-- **Node.js**: Serving as the backbone of the MERN stack, Node.js is central to my full-stack development journey.
+- C#
+- MVC.Net
 
 ## Get in Touch
 
-If you share a similar interest, have advice to offer, or just want to connect, feel free to reach out. Let's learn and grow together in the exciting realms of backend development, machine learning, and the MERN stack!
+If you share a similar interest, have advice to offer, or just want to connect, feel free to reach out.
 
 ## Acknowledgments
 

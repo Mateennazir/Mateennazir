@@ -12,6 +12,16 @@ Scheduled to graduate in 2024, I am eager to apply my knowledge and make meaning
 
 ## Featured Repositories
 
+
+### ( Travel agency Website) TrekDeKashmir
+● Created a visually appealing and user-friendly frontend for a travel agency using HTML, CSS, JavaScript Utilized
+responsive design principles to ensure the website is accessible and functional across various devices, including
+desktops, tablets, and mobile phones.
+● Integrated user-friendly animations to not only improve aesthetics but also contribute to a smooth and enjoyable
+user journey.
+● Successfully managed and executed the entire frontend development process, meeting project deadlines effectively
+- Technologies: HTML, CSS, JavaScript,
+- [Repository](https://mateennazir.github.io/-Trekdekashmir/)
 ### Web Application - Workout Logger
 
 ##### Description: Mapty is a fitness tracking app meticulously crafted with HTML, CSS, and JavaScript, leveraging API geolocation for accurate location tracking Key features include:
@@ -25,16 +35,6 @@ Scheduled to graduate in 2024, I am eager to apply my knowledge and make meaning
 
 - Technologies: HTML, CSS, JavaScript, Geolocation API
 - [Repository](https://github.com/Mateennazir/Mapty-by-Mateen)
-
-### ( Travel agency Website) TrekDeKashmir
-● Created a visually appealing and user-friendly frontend for a travel agency using HTML, CSS, JavaScript Utilized
-responsive design principles to ensure the website is accessible and functional across various devices, including
-desktops, tablets, and mobile phones.
-● Integrated user-friendly animations to not only improve aesthetics but also contribute to a smooth and enjoyable
-user journey.
-● Successfully managed and executed the entire frontend development process, meeting project deadlines effectively
-- Technologies: HTML, CSS, JavaScript,
-- [Repository](https://mateennazir.github.io/-Trekdekashmir/)
 
 # Forkify
 

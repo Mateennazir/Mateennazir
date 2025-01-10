@@ -4,7 +4,7 @@
 
 Greetings, I am Mateen Chowdhary, a diligent final-year computer science student with a focus on becoming a proficient full-stack developer. My academic foundation, coupled with a relentless passion for coding, drives me to excel in crafting sophisticated web interfaces and addressing intricate challenges through programming.
 
-Scheduled to graduate in 2024, I am eager to apply my knowledge and make meaningful contributions to the dynamic field of computer science. I look forward to the opportunities that lie ahead as I embark on a journey of continuous learning and professional growth. 💻🌐
+ I am eager to apply my knowledge and make meaningful contributions to the dynamic field of computer science. I look forward to the opportunities that lie ahead as I embark on a journey of continuous learning and professional growth. 💻🌐
 
 - **Name**: Mateen Chowdhary
 - **Instagram**: [@mateen.chowdhary](https://www.instagram.com/mateen.chowdhary/)

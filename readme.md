@@ -1,4 +1,4 @@
-# Welcome to Mateen Chowdhary's GitHub Profile
+# Welcome to Muteeb Nazir's GitHub Profile
 
 ## About Me
 
@@ -8,7 +8,7 @@ Greetings, I am Mateen Chowdhary, Dedicated Software Engineer with extensive exp
 
 - **Name**: Mateen Chowdhary
 - **Instagram**: [@mateen.chowdhary](https://www.instagram.com/mateen.chowdhary/)
-- **LinkedIn**: [Mateen Nazir](https://www.linkedin.com/in/mateen-chowdhary/)
+- **LinkedIn**: [Muteeb Nazir](https://www.linkedin.com/in/mateen-chowdhary/)
 
 ## Featured Repositories
 

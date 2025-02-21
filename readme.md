@@ -9,7 +9,7 @@ Greetings, I am Mateen Chowdhary, Dedicated Software Engineer with extensive exp
 - **Name**: Mateen Chowdhary
 - **Portfolio**: [Check out my work here] (https://mateenchowdharyportfolio.netlify.app/)
 - **Instagram**: [@mateen.chowdhary](https://www.instagram.com/mateen.chowdhary/)
-- **LinkedIn**: [Muteeb Nazir](https://www.linkedin.com/in/mateen-chowdhary/)
+
 
 
 ## Featured Repositories
